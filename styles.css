@@ -1,14 +1,14 @@
 body {
-    font-family: 'Vazir', sans-serif;
+    font-family: 'IRANSans', sans-serif;
     margin: 0;
     padding: 0;
-    background: #fff3e0; /* پس‌زمینه نارنجی روشن و شاد */
+    background: #E3F2FD; /* آبی ملایم */
     color: #333;
     direction: rtl;
     text-align: right;
 }
 header {
-    background: #ff4081; /* صورتی پررنگ شاد */
+    background: #1B263B; /* آبی سورمه‌ای */
     color: #fff;
     padding: 1rem;
     text-align: center;
@@ -101,7 +101,7 @@ section {
     color: #fff;
 }
 footer {
-    background: #ff4081; /* صورتی شاد برای فوتر */
+    background: #1B263B; /* آبی سورمه‌ای */
     color: #fff;
     text-align: center;
     padding: 1rem;
